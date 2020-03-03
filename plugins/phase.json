@@ -1,0 +1,11 @@
+{
+  "gameStarted": 0,
+  "targetDecided": 1,
+  "questioned": 2,
+  "answered": 3,
+  "guessed": 4,
+  "rounedEnded": 5,
+  "answer": 6,
+  "gameEnded": 7,
+  "nextMaster": 8
+}

@@ -1,0 +1,9 @@
+{
+  "wait": 0,
+  "ready": 1,
+  "decide": 2,
+  "ask": 3,
+  "answer": 4,
+  "guess": 5,
+  "over": 6
+}

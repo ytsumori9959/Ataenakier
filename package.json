@@ -1,0 +1,23 @@
+{
+  "name": "Ataenakier",
+  "version": "1.0.0",
+  "description": "Super fun game based on Akinator",
+  "author": "TsuYu",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "firebase": "^6.0.0",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0",
+    "@nuxtjs/vuetify": "^0.5.5",
+    "nodemon": "^1.18.9"
+  }
+}
